@@ -1,0 +1,21 @@
+h1 {
+  line-height: 40px;
+  color: blue;
+}
+
+.main {
+  font-family: fantasy;
+}
+
+.school {
+  color: blue;
+  font-style: italic;
+}
+
+.things {
+  color: red;
+}
+
+body {
+  background-color: yellow;
+}
